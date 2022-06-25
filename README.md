@@ -8,7 +8,7 @@ Note : This repository contains both frontend and backend code.
 
 ## Installation
 
-### Backend(Java)
+### Back-end(Java)
 
 Dependencies :
 
@@ -24,7 +24,7 @@ java -jar library-backend.jar
 ```
 ---
 
-### Frontend(Flutter)
+### Front-end(Flutter)
 
 Dependencies :
 
