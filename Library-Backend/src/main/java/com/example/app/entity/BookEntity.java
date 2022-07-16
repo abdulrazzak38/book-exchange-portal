@@ -1,14 +1,14 @@
 package com.example.app.entity;
 
 public class BookEntity {
-    String bookTitle;
-    String publisher;
-    String author;
-    String year;
-    String edition;
-    String email;
+    private String bookTitle;
+    private String publisher;
+    private String author;
+    private String year;
+    private String edition;
+    private String email;
 
-    String availability;
+    private String availability;
 
     public String getAvailability() {
         return availability;

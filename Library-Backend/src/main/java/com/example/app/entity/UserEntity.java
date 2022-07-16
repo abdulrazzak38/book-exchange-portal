@@ -1,16 +1,16 @@
 package com.example.app.entity;
 
 public class UserEntity {
-    String name;
-    String id;
-    String phoneNumber;
-    String address;
-    String email;
+    private String name;
+    private String id;
+    private String phoneNumber;
+    private String address;
+    private String email;
 
-    String password;
+    private String password;
 
-    int balance;
-    int fineAmount;
+    private int balance;
+    private int fineAmount;
 
     public int getBalance() {
         return balance;

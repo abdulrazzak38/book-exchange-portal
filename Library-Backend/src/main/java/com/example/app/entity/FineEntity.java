@@ -1,9 +1,9 @@
 package com.example.app.entity;
 
 public class FineEntity {
-    String email;
-    int fineAmount;
-    String title;
+    private String email;
+    private int fineAmount;
+    private String title;
 
     public String getEmail() {
         return email;

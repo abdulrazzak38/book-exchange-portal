@@ -1,12 +1,12 @@
 package com.example.app.entity;
 
 public class RequestsEntity {
-    String title;
-    String borrower;
-    String lender;
-    String status;
+    private String title;
+    private String borrower;
+    private String lender;
+    private String status;
 
-    String holdPeriod;
+    private String holdPeriod;
 
     public String getHoldPeriod() {
         return holdPeriod;

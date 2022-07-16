@@ -1,7 +1,7 @@
 package com.example.app.entity;
 
 public class Email {
-    String email;
+    private String email;
 
     public String getEmail() {
         return email;
